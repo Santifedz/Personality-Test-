@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "utility": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "set": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
